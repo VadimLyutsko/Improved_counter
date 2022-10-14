@@ -1,0 +1,26 @@
+.Settings{
+    display: flex;
+    flex-direction: column;
+    align-items: center; /*Изменил ось*/
+    justify-content: space-around;
+    background-color: #9e50cb;
+    height: 50%;
+    width: 50%;
+}
+
+.SettingsValue {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 50%;
+    background-color: #5d3273;}
+
+.SettingsButtons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 50%;
+    background-color: #bf99d5;
+}
